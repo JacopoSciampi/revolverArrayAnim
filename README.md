@@ -1,6 +1,6 @@
 # Revolver
 
-A simple animation that animate a push and a splice.
+Animate push and splice with array
 
 # Common
 

@@ -2,6 +2,7 @@
 
 Animate push and splice with array
 
+![](g.gif)
 # Common
 
 - Clone the repo

@@ -1,0 +1,9 @@
+<div class="container">
+    <div *ngFor="let item of items; let i = index" class="item"  (click)="remove(i)"
+      [@anim]="item.state">
+      {{ item.name }}
+    </div>
+  </div>
+  <div class="aside">
+    <button (click)="push()">Push</button>
+  </div>
